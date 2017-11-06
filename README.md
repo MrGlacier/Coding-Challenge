@@ -2,4 +2,4 @@
 
 
 ## CruisalPoint
-Canvas with ccruisal points
+Canvas with cruisal points
