@@ -1,5 +1,2 @@
 # Coding-Challenge
-
-
-## CruisalPoint
-Canvas with cruisal points
+moved to (https://github.com/MrGlacier/mrglacier.github.io)[https://github.com/MrGlacier/mrglacier.github.io]
